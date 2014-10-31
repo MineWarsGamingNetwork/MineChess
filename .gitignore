@@ -21,3 +21,4 @@ environment.properties
 /eclipse
 .gradle/
 .settings/
+.metadata/
